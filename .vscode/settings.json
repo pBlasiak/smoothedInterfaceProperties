@@ -1,0 +1,15 @@
+{
+    "ccls.cache.directory":
+"/home/przemek/OpenFOAM/OpenFOAM-v2106/build/linux64GccDPInt64Opt/ccls-cache",
+
+    "ccls.misc.compilationDatabaseDirectory":
+"/home/przemek/OpenFOAM/OpenFOAM-v2106/build/linux64GccDPInt64Opt",
+
+    "C_Cpp.default.compileCommands":
+"/home/przemek/OpenFOAM/OpenFOAM-v2106/etc/openfoam wmake -with-bear -s -j",
+
+    "C_Cpp.autocomplete": "Disabled",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.formatting": "Disabled",
+    "C_Cpp.intelliSenseEngine": "Disabled"
+}
